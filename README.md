@@ -47,7 +47,7 @@ I want to see the history (operation, date, amount, balance) of my operations
 
 =====================================================================================
 
-developpé avec Spring Boot, Hibernate/JPA, PostgreSQL, Spring data, Spring MVC pour les WebService Rest
+developpé avec Spring Boot, Hibernate/JPA, PostgreSQL, Spring data, Spring MVC pour les WebService Rest, JUnit, Mockito
 
 
 
